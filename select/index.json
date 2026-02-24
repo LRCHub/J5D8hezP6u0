@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Mr. Chu (On Stage)",
+  "base_artist": "Apink",
+  "createdAt": "2026-02-24T04:05:37.070732Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (Mr. Chu (On Stage))",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/01_Mr._Chu_(On_Stage)_(Mr._Chu_(On_Stage))_Apink.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage)",
+      "artist": "Apink",
+      "has_synced": false,
+      "path": "select/02_Mr._Chu_(On_Stage)_Apink.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MR. CHU (ON Stage)",
+      "artist": "에이핑크",
+      "has_synced": true,
+      "path": "select/03_MR._CHU_(ON_Stage)_에이핑크.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (Inst.)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/04_Mr._Chu_(On_Stage)_(Inst.)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/05_Mr._Chu_(On_Stage)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (inst.)",
+      "artist": "에이핑크",
+      "has_synced": true,
+      "path": "select/06_Mr._Chu_(On_Stage)_(inst.)_에이핑크.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (Japanese Version)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/07_Mr._Chu_(On_Stage)_(Japanese_Version)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) -Japanese Ver.-",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/08_Mr._Chu_(On_Stage)_-Japanese_Ver.-_Apink.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (INST)",
+      "artist": "Apink (에이핑크)",
+      "has_synced": true,
+      "path": "select/09_Mr._Chu_(On_Stage)_(INST)_Apink_(에이핑크).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (inst) (Instrumental)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/10_Mr._Chu_(On_Stage)_(inst)_(Instrumental)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (Inst.)",
+      "artist": "에이핑크 (Apink)",
+      "has_synced": true,
+      "path": "select/11_Mr._Chu_(On_Stage)_(Inst.)_에이핑크_(Apink).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mr. Chu(On Stage) (Japanese Ver.)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/12_Mr._Chu(On_Stage)_(Japanese_Ver.)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (Japanese Version)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/13_Mr._Chu_(On_Stage)_(Japanese_Version)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage)",
+      "artist": "에이핑크 (Apink)",
+      "has_synced": true,
+      "path": "select/14_Mr._Chu_(On_Stage)_에이핑크_(Apink).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/15_Mr._Chu_(On_Stage)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/16_Mr._Chu_(On_Stage)_Apink.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr. Chu (On Stage)",
+      "artist": "A Pink",
+      "has_synced": false,
+      "path": "select/pl_01_Mr._Chu_(On_Stage)_A_Pink.txt"
+    }
+  ]
+}
